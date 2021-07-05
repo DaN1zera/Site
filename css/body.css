@@ -1,0 +1,81 @@
+.principal {
+    font-family: "Open Sans", "sans-serif";
+    text-align: center;
+    font-size: 30px;
+    margin: 58px 0 30px 0;
+    color: #818181;
+}
+.principal b {
+    color: #646464;
+}
+.principalSub {
+    font-family: "PT Sans", "sans-serif";
+    text-align: center;
+    font-size: 15px;
+    margin: 0 0 0 0;
+    color: #818181;
+}
+.iMac {
+    width: 300px;
+    height: 210px;
+    margin-top: 49px;
+}
+.iMac img {
+    position: relative;
+    left: 82px;
+}
+.iMac .iMacTitle {
+    text-align: center;
+    font-size: 20px;
+    color: #818181;
+}
+.iMac .iMacDesc {
+    font-family: "PTSans Regular", "sans-serif";
+    text-align: center;
+    font-size: 14px;
+    color: #818181;
+}
+.pencil {
+    width: 300px;
+    height: 210px;
+    position: absolute;
+    top: 30px;
+    left: 337px;
+}
+.pencil img {
+    position: relative;
+    left: 82px;
+}
+.pencil .pencilTitle {
+    text-align: center;
+    font-size: 20px;
+    color: #818181;
+}
+.pencil .pencilDesc {
+    font-family: "PTSans Regular", "sans-serif";
+    text-align: center;
+    font-size: 14px;
+    color: #818181;
+}
+.photo {
+    width: 300px;
+    height: 210px;
+    position: absolute;
+    top: 0px;
+    right: 0;
+}
+.photo img {
+    position: relative;
+    left: 82px;
+}
+.photo .photoTitle {
+    text-align: center;
+    font-size: 20px;
+    color: #818181;
+}
+.photo .photoDesc {
+    font-family: "PTSans Regular", "sans-serif";
+    text-align: center;
+    font-size: 14px;
+    color: #818181;
+}

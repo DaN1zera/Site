@@ -1,0 +1,77 @@
+.w3-buttonPrev {
+    font-size: 0px;
+    border: none;
+    height: 51px;
+    width: 25px;
+    background-color: transparent;
+    position: absolute;
+    background-image: url(../img/arrowl.png);
+    z-index: 9;
+    margin-top: -253px;
+}
+.w3-buttonNext {
+    font-size: 0px;
+    border: none;
+    height: 51px;
+    width: 25px;
+    background-color: transparent;
+    position: absolute;
+    background-image: url(../img/arrowr.png);
+    z-index: 9;
+    margin-top: -253px;
+    margin-left: 980px;
+}
+.btn {
+    font-size: 8px;
+    color: transparent;
+    border: 4px solid #ffffff;
+    background: transparent;
+    border-radius: 50%;
+    padding-right: 12px;
+    padding-top: 0px;
+    margin-right: 7px;
+    cursor: pointer;
+    position: relative;
+    top: -50px;
+    left: 409px;
+}
+.active,
+.btn:hover {
+    background: #00bac6;
+}
+#myDIV {
+    margin: 0 auto;
+    width: 50%;
+    position: absolute;
+    left: 410px;
+    top: -53px;
+}
+.mySlides {
+    margin: auto;
+    min-width: 980px;
+    width: 100%;
+    height: 455px;
+}
+.sliderTextMain {
+    position: relative;
+    font-size: 40px;
+    text-align: center;
+    font-family: "Open Sans", "sans-serif";
+    color: #ffffff;
+    top: -383px;
+    left: 0;
+}
+.sliderTextSub {
+    position: relative;
+    text-align: center;
+    font-size: 15px;
+    font-family: "PTSans Regular", "sans-serif";
+    color: #ffffff;
+    top: -400px;
+    left: 0;
+}
+.Slide {
+    position: relative;
+    margin-bottom: -200px;
+    user-select: none;
+}

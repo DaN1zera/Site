@@ -1,0 +1,17 @@
+Dia 1 = 2:30HRS {
+    Maior parte da estrutura do header;
+}
+Dia 2 = 2:30HRS {
+    Interface de slider completa feita com javascript;
+}
+Dia 3 = 2:00HRS {
+    Implementação de fontes;
+    Feito a parte de baixo do slider; 
+}
+Dia 4 = 4:00HRS {
+    Slide quase finalizado, faltando apenas efeitos de transição;
+    Muita evolução e aprendizado;
+}
+Dia 5 = 2:00HRS {
+    Site finalizado;
+}
